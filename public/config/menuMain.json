@@ -1,0 +1,136 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  {
+    "icon": "fa fa-file-text-o",
+    "slug": "introduccion",
+    "title": "Introducción",
+    "path": "pages/introduccion.html"
+  }, 
+  {
+    "icon": "fa fa-file-text-o",
+    "slug": "compost",
+    "title": "1. Compost en la Agricultura Urbana",
+    "path": "pages/tema-1.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "compost",
+        "title": "1.1 Generalidades ",
+        "anchor": "tema-11"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "compost",
+        "title": "1.2 Fases en el proceso de compost",
+        "anchor": "tema-12"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "compost",
+        "title": "1.3 Elementos a tener en cuenta en el compostaje",
+        "anchor": "tema-13"
+      }
+    ]
+  },
+  {
+    "icon": "fa fa-file-text-o",
+    "slug": "lombricompuesto",
+    "title": "2. Lombricompuesto",
+    "path": "pages/tema-2.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "lombricompuesto",
+        "title": "2.1 Definición",
+        "anchor": "tema-21"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "lombricompuesto",
+        "title": "2.2 Ventajas",
+        "anchor": "tema-22"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "lombricompuesto",
+        "title": "2.3 Características de la lombriz",
+        "anchor": "tema-23"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "lombricompuesto",
+        "title": "2.4 Características del humus",
+        "anchor": "tema-24"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "lombricompuesto",
+        "title": "2.5 Instalación de la lombricultura",
+        "anchor": "tema-25"
+      }
+    ]
+  },
+  {
+    "icon": "fa fa-file-text-o",
+    "slug": "fertilizacion",
+    "title": "3. Fertilización en agricultura urbana",
+    "path": "pages/tema-3.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "fertilizacion",
+        "title": "3.1 Fertilización orgánica",
+        "anchor": "tema-31"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "fertilizacion",
+        "title": "3.2 Fertilización química",
+        "anchor": "tema-32"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "fertilizacion",
+        "title": "3.3 Concentración de los fertilizantes ",
+        "anchor": "tema-33"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "fertilizacion",
+        "title": "3.4 Saturación de los sustratos",
+        "anchor": "tema-34"
+      }                  
+    ]
+  },
+  {
+    "icon": "fa fa-file-text-o",
+    "slug": "mezclas",
+    "title": "4. Mezclas",
+    "path": "pages/tema-4.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "mezclas",
+        "title": "4.1 Características",
+        "anchor": "tema-41"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "mezclas",
+        "title": "4.2 Tipos",
+        "anchor": "tema-42"
+      }
+    ]
+  },
+  {
+    "icon": "fa fa-question-circle",
+    "slug": "actividad-1",
+    "title": "Actividad didáctica",
+    "path": "pages/actividad-1.html"
+  }   
+]

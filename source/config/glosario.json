@@ -1,0 +1,96 @@
+[
+  {
+    "letter": "A",
+    "terms": [
+      {
+        "title": "Aeróbica",
+        "desciption": "Quiere decir que requiere del oxígeno para llevar a cabo sus procesos vitales."
+      },
+      {
+        "title": "Auxinas",
+        "desciption": "Son hormonas vegetales cuya función principal está relacionada con el crecimiento y el desarrollo de las plantas."
+      }
+
+    ]
+  },
+  {
+    "letter": "C",
+    "terms": [
+      {
+        "title": "Compostar",
+        "desciption": "Es la acción por medio de la cual se logra obtener un abono a partir de desechos orgánicos."
+      }
+    ]
+  },
+  {
+    "letter": "E",
+    "terms": [
+      {
+        "title": "Eschericha coli",
+        "desciption": "Bacteria presente en el intestino de diferentes organismos, en algunos casos, por ejemplo, en los seres humanos es causante de enfermedades."
+      }
+    ]
+  },
+  {
+    "letter": "F",
+    "terms": [
+      {
+        "title": "Fitotoxicidad",
+        "desciption": "Es un efecto negativo que se produce en las plantas a causa de sustancias u organismos tóxicos."
+      }
+    ]
+  },
+  {
+    "letter": "H",
+    "terms": [
+      {
+        "title": "Hermafrodita",
+        "desciption": "Organismos vivos que poseen dentro de su estructura fisiológica órganos tanto de carácter masculino como femenino."
+      }
+    ]
+  },
+  {
+    "letter": "L",
+    "terms": [
+      {
+        "title": "Lixiviación",
+        "desciption": "Proceso por medio del cual a través del agua se obtienen sustancias presentes en el suelo o en los estratos."
+      }
+    ]
+  },
+  {
+    "letter": "O",
+    "terms": [
+      {
+        "title": "Organismos Mesófilos",
+        "desciption": "Son los organismos que tienen una temperatura óptima de desarrollo comprendida entre los 20 y los 45°C, el cual se considera un rango de temperatura moderada."
+      },
+      {
+        "title": "Organismos Termófilos",
+        "desciption": "Son los organismos que se desarrollan a temperaturas superiores a los 45°C, la cual se considera una temperatura extrema alta."
+      }
+    ]
+  },
+  {
+    "letter": "P",
+    "terms": [
+      {
+        "title": "Producción Limpia",
+        "desciption": "Proceso por medio del cual se obtienen productos en los que no intervinieron en sustancias químicas de síntesis que puedan causar daño al consumidor o al medio ambiente."
+      }
+    ]
+  },
+  {
+    "letter": "S",
+    "terms": [
+      {
+        "title": "Salmonella spp",
+        "desciption": "Son bacterias que tienen efectos contaminantes sobre muchos organismos vivos, entre ellos, el hombre."
+      },
+      {
+        "title": "Sustancias húmicas",
+        "desciption": "Son componentes del humus que se encargan de la liberación lenta de elementos como el nitrógeno, fósforo, potasio y azufre importantes para nutrición de las plantas. Además, tienen efecto en la regulación del pH del suelo."
+      }
+    ]
+  }  
+]
